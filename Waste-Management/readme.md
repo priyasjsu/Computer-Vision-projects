@@ -33,8 +33,9 @@ This project used Roboflow to prepare the data for training the model such as ba
 
 <img width="364" alt="image" src="https://github.com/priyasjsu/Computer-Vision-projects/assets/113324576/42320d5b-2b69-4c4b-a824-d1921e2382f5">
 
-#### Annotation and Imbalance dataset
+#### Annotation and balance dataset
 <img width="642" alt="image" src="https://github.com/priyasjsu/Computer-Vision-projects/assets/113324576/fbc2a6ae-cff6-4e52-8d38-99e4816b04d7">
+<img width="637" alt="image" src="https://github.com/priyasjsu/Computer-Vision-projects/assets/113324576/b7e83b62-a168-4e83-958b-4f8512e79f53">
 
 ### Result
 <img width="624" alt="image" src="https://github.com/priyasjsu/Computer-Vision-projects/assets/113324576/0d6e34f1-42fe-4a50-9795-fca9e96efca5">
