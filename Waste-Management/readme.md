@@ -40,7 +40,8 @@ This project used Roboflow to prepare the data for training the model such as ba
 ### Result
 <img width="624" alt="image" src="https://github.com/priyasjsu/Computer-Vision-projects/assets/113324576/0d6e34f1-42fe-4a50-9795-fca9e96efca5">
 
-[Click here to see the full documentation of the model and result metrics](https://github.com/priyasjsu/Computer-Vision-projects/blob/main/Waste-Management/docs/waste-management-Yolo-v5-report.pdf)
+[Click here to see the full documentation of the YOLO v5 model and result metrics](https://github.com/priyasjsu/Computer-Vision-projects/blob/main/Waste-Management/docs/waste-management-Yolo-v5-report.pdf)
+If you're interested in reviewing the complete project workflow and the documentation for the implementation of all four models [click this link and download the report](https://drive.google.com/file/d/1KtAyE7p6tctCfxNF3nQ9njuuykX6fLXu/view?usp=sharing). 
 
 
 
