@@ -18,7 +18,7 @@ The proposed application must meet the following requirements: detect the waste 
 YOLOv5 is a single-stage object detection algorithm that works in a grid system. An image is divided into a grid system, then each cell within the grid detects any objects it contains, as shown in Figure. YOLOv5 uses a convolutional neural network algorithm to identify and locate target objects within images. As previously mentioned, a single convolutional network determines both bounding boxes and class probabilities simultaneously in YOLOv5. As a result, this algorithm has proven to be much faster than other object detection algorithms.
 
 ## Project Approaches and Methods
-the approach in this project involves data collection, data preprocessing, image processing, model training (here YOLO v5), model testing, and model evaluation can be seen in the given data flow.
+The approach in this project involves data collection, data preprocessing, image processing, model training (here YOLO v5), model testing, and model evaluation can be seen in the given data flow.
 
 <img width="468" alt="image" src="https://github.com/priyasjsu/Computer-Vision-projects/assets/113324576/b54af6d2-3f42-4954-9996-5ee9ca5acf41">
 
